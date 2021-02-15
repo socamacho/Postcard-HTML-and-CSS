@@ -1,0 +1,19 @@
+body {
+    background: black; font-size: 14px; font-family: "Yusei Magic", "sans-serif";
+}
+
+.digpostcard{
+    background-color:white ; width:450px; height: 300px; margin:auto; padding:30px;
+}
+.digpostcard-header  { overflow: hidden;}
+.digpostcard-header img {max-width: 60px; float:right  ;}
+.digpostcard-body { height:150px ;overflow: hidden;}
+.digpostcard-header h1 {margin:0
+}
+input{font-size: 15px; font-family:"Yusei Magic", "sans-serif";}
+.left-body {float:left; width: 50%; height:50%}
+h1 {height:35px}
+.right-body {float:right; width: 50%;}
+.right-body input{display: block; border: none;font-size: 15px; border-bottom: 1px solid gray}
+.digpostcard-footer {padding:10px; text-align: center; overflow:hidden;}
+ 
